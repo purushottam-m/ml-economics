@@ -1,5 +1,4 @@
-# ml-economics
-Machine Learning for Economics
+# Machine Learning for Economics
 
 ## Double Debiased Machine Learning
 File k2ml.R provides a generalized function to implement the double debiased machine learning using K-sample splits. It is based on the paper - *Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). Double/debiased machine learning for treatment and structural parameters*. The function is written with reference to the code by Hannah Bull (Paris School of Economics (PSE)) available at (https://ml-in-econ.appspot.com/lab2.html). 
